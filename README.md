@@ -1,5 +1,5 @@
-# privacypolicy
-Privacy policy for the Live Bubbles Chrome extension.
+# Privacy Policy for Live Bubbles
+Privacy policy for the Live Bubbles browser extension.
 
 By using this browser extension, you consent to this Privacy Policy.
 
